@@ -12,5 +12,7 @@ public class CSC325_Demo01 {
 
     public static void main(String[] args) {
         System.out.println("Mike");
+        
+        System.out.println("Mike");
     }
 }
